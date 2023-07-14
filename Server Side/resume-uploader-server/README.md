@@ -20,10 +20,9 @@ If facing any error, you can run:
 
 This will install the required dependencies
 
-To fix firebase errors, you can run:
-
 ### `npm install firebase`
 
+To fix firebase errors
 
 ### `npm test`
 
